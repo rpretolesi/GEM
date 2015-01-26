@@ -1,0 +1,17 @@
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\x64\Release\GEMClient.exe.config
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\x64\Release\GEMClient.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\x64\Release\GEMClient.pdb
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\x64\Release\GEMClient.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.BaseForm_1.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.ClienteCodiceStringaDiConnessione.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.Main.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.Resources.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.VisDatiDataLogger.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.VisDatiInverterTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.VisDatiStringTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.VisInFormatoGrafico.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.vbproj.GenerateResource.Cache
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\x64\Release\GEMClient.pdb

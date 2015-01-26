@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GEM", "GEM\GEM.vbproj", "{C8B28B8B-143E-4F39-9178-68C0592D904C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupGEM", "SetupGEM\SetupGEM.vdproj", "{3542CAB2-4AA2-492F-948C-B190817574C7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GEMClient", "GEMClient\GEMClient.vbproj", "{3AA20402-5D8E-440E-895B-225E3F6DF75D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupGEMClient", "SetupGEMClient\SetupGEMClient.vdproj", "{4C76C55E-FD38-4769-91D0-445705B76189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B28B8B-143E-4F39-9178-68C0592D904C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B28B8B-143E-4F39-9178-68C0592D904C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B28B8B-143E-4F39-9178-68C0592D904C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B28B8B-143E-4F39-9178-68C0592D904C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3542CAB2-4AA2-492F-948C-B190817574C7}.Debug|Any CPU.ActiveCfg = Debug
+		{3542CAB2-4AA2-492F-948C-B190817574C7}.Debug|Any CPU.Build.0 = Debug
+		{3542CAB2-4AA2-492F-948C-B190817574C7}.Release|Any CPU.ActiveCfg = Release
+		{3542CAB2-4AA2-492F-948C-B190817574C7}.Release|Any CPU.Build.0 = Release
+		{3AA20402-5D8E-440E-895B-225E3F6DF75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA20402-5D8E-440E-895B-225E3F6DF75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA20402-5D8E-440E-895B-225E3F6DF75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA20402-5D8E-440E-895B-225E3F6DF75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C76C55E-FD38-4769-91D0-445705B76189}.Debug|Any CPU.ActiveCfg = Debug
+		{4C76C55E-FD38-4769-91D0-445705B76189}.Release|Any CPU.ActiveCfg = Release
+		{4C76C55E-FD38-4769-91D0-445705B76189}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

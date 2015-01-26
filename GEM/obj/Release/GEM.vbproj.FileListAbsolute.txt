@@ -1,0 +1,240 @@
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe.config
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.pdb
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\it\GEM.resources.dll
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.AggiornaManualmenteDati.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.BaseForm_1.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Cliente.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzione.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzioneInst.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInstParamConfig.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ImpiantoDiProduzione.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.IngressoTipo.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotov.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotovInst.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst_X_InverterFotovInst_X_Config.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Logger.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_ImpiantoDiProduzione_X_Config.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Resources.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotov.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovInst.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovString.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst_X_PannelloFotovString_X_Config.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiDataLogger.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiInverterTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiStringTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.it.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.it.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.vbproj.GenerateResource.Cache
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\it\GEM.resources.dll
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\it\GEM.resources.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.AggiornaManualmenteDati.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.BaseForm_1.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Cliente.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ConfigurazioneComunicazione.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzione.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzioneInst.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInstParamConfig.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ImpiantoDiProduzione.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.IngressoTipo.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotov.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotovInst.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTester.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst_X_InverterFotovInst_X_Config.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Logger.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_ImpiantoDiProduzione_X_Config.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotov.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovInst.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovString.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTester.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst_X_PannelloFotovString_X_Config.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiDataLogger.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiInverterTester.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiStringTester.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.it.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.it.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\it\GEM.resources.dll
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe.config
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.exe
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.xml
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.pdb
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.pdb
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.xml
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\it\GEM.resources.dll
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.AggiornaManualmenteDati.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.BaseForm_1.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Cliente.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ConfigurazioneComunicazione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzioneInst.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInstParamConfig.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ImpiantoDiProduzione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.IngressoTipo.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotov.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotovInst.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTester.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst_X_InverterFotovInst_X_Config.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Logger.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_ImpiantoDiProduzione_X_Config.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Resources.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotov.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovInst.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovString.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTester.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst_X_PannelloFotovString_X_Config.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiDataLogger.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiInverterTester.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiStringTester.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.it.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.it.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\it\GEM.resources.dll
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ConfigurazioneComunicazione.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.log.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringaDiConnessione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringaDiConnessione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.log.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringaDiConnessione.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.log.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_IndEMailSuAll.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.DatiGeneraliImpianto.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisualizzaUtentiCollegatiAlDB.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.DatiGeneraliImpianto.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_IndEMailSuAll.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisualizzaUtentiCollegatiAlDB.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerParamConfig.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEMCepi\GEM\bin\Release\GEM.exe.config
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEMCepi\GEM\obj\Release\GEM.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEMCepi\GEM\obj\Release\GEM.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEMCepi\GEM\obj\Release\GEM.pdb
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerParamConfig.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\bin\Release\it\GEM.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.AggiornaManualmenteDati.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.BaseForm_1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Cliente.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.DatiGeneraliImpianto.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_IndEMailSuAll.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerParamConfig.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringaDiConnessione.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ConfigurazioneComunicazione.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzione.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzioneInst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.log.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInstParamConfig.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ImpiantoDiProduzione.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.IngressoTipo.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotov.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotovInst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTester.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst_X_InverterFotovInst_X_Config.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Logger.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_ImpiantoDiProduzione_X_Config.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotov.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovInst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovString.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTester.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst_X_PannelloFotovString_X_Config.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiDataLogger.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiInverterTester.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiStringTester.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisualizzaUtentiCollegatiAlDB.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.it.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.it.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GEM\GEM\obj\Release\it\GEM.resources.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe.config
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\GEM.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\bin\Release\it\GEM.resources.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.AggiornaManualmenteDati.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.BaseForm_1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Cliente.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.DatiGeneraliImpianto.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_IndEMailSuAll.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerParamConfig.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringaDiConnessione.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ConfigurazioneComunicazione.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzione.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ContatoreDiProduzioneInst.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.log.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInstParamConfig.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.ImpiantoDiProduzione.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.IngressoTipo.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotov.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterFotovInst.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTester.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.InverterTesterInst_X_InverterFotovInst_X_Config.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Logger.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.LoggerInst_X_ImpiantoDiProduzione_X_Config.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotov.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovInst.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.PannelloFotovString.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTester.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.StringTesterInst_X_PannelloFotovString_X_Config.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiDataLogger.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiInverterTester.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisDatiStringTester.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.VisualizzaUtentiCollegatiAlDB.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Login.it.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.Main.it.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\GEM.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\GEM\GEM\obj\Release\it\GEM.resources.dll

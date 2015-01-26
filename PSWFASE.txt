@@ -1,0 +1,61 @@
+Connettersi al terminal via internet
+https://srvtsgw.fasenet.it
+fasenet\pretolesir
+C4mbiami
+
+Dal Terminal, connettersi al Server GEM
+pretolesigem
+!GEM!01adm
+
+Stringa di connessione:
+SRVGEM.fasenet.it\GEMCLI
+
+Utente in sola lettura SQL
+fase
+@08E-se4!
+
+Sito ftp fase
+ftp:
+ftp://ftp.fasenet.it
+stessa user name e password Per connettersi al Terminal
+
+
+
+Ciao Riccardo:
+
+ 
+
+·         IP pubblico GEM Server:             109.168.26.253 (da usare nella scheda rete DIGI dei DataLogger)
+
+·         IP interno GEM Server:                192.168.5.83
+
+·         Nome Esterno GEM Server:      srvgem.fasenet.it
+
+·         Nome Interno GEM Server:       srvgem.fasenet.local – Dall’interno funziona anche con il nome esterno
+
+·         Porta 502 (tcp/udp) NAT             109.168.26.253 à 192.168.5.83
+
+·         ALTRE PORTE in ingresso:            per il momento *non* aperte sul Firewall
+
+·         Protocolli consentiti in uscita da SRVGEM: tutti
+
+·         Indirizzo da PINGARE dall’esterno per verificare che linea HDSL Vecchiazziano sia UP: 109.168.26.252
+
+ 
+
+·         SRVGEM è STANDALONE e non è in DOMINIO
+
+·         Utenti LOCALI di Amministrazione SRVGEM: “pretolesigem” + “baraghinigem”
+
+è NOTA BENE: Utente “pretolesigem” deve rimanere sempre aperto, anche se disconnesso come RDP, per lasciar girare il processo GEM SERVER sul Desktop.
+Teleassistenza su SRVGEM da fuori Fase:  creato utente di Dominio fasenet\pretolesir che può usare il portale  https://srvts.fasenet.it per arrivare su SRVGEM attraverso la consueta TSFARM di produzione.
+
+ 
+
+·         STRINGA CONNESSIONE GEM CLIENT:
+Data Source=srvgem.fasenet.it,1433;Initial Catalog=GEM;Persist Security Info=True;User ID=fase;Password=@08E-se4!
+
+è Questa STRINGA CONNESSIONE funziona dall’interno (ES: GEM Client installato su PC della LAN di Vecchiazzano) ed è corretta dall’esterno, ma
+Alla data odierna, 01/05/11 il GEM CLIENT *non* può connettersi da fuori perchè porta 1433 (quella pericolosa) non è aperta sul Firewall.
+
+Che dici, insistiamo a far funzionare GEM Client nel SRVTS di Fase, cui far accedere il cliente finale ??

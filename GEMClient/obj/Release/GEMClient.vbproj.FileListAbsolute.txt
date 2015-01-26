@@ -1,0 +1,58 @@
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.BaseForm_1.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiDataLogger.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiInverterTester.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiStringTester.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisInFormatoGrafico.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.ClienteCodiceStringaDiConnessione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.exe.config
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\Interop.MSChart20Lib.dll
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\AxInterop.MSChart20Lib.dll
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.vbproj.ResolveComReference.cache
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.exe
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.xml
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.pdb
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.exe
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.pdb
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.xml
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\Interop.MSChart20Lib.dll
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\AxInterop.MSChart20Lib.dll
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.BaseForm_1.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.ClienteCodiceStringaDiConnessione.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.Main.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.Resources.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiDataLogger.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiInverterTester.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiStringTester.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisInFormatoGrafico.resources
+C:\Documents and Settings\RICKY\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.ManualeUtente.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.exe.config
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.pdb
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\bin\Release\GEMClient.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.BaseForm_1.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.ClienteCodiceStringaDiConnessione.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.Main.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.ManualeUtente.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.Resources.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiDataLogger.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiInverterTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisDatiStringTester.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.VisInFormatoGrafico.resources
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.vbproj.GenerateResource.Cache
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.exe
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.xml
+C:\Users\Pretolesi\Documents\Visual Studio 2008\Projects\GEM\GEMClient\obj\Release\GEMClient.pdb

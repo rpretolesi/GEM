@@ -1,0 +1,12 @@
+Data Source=93.63.191.149,1433\SQLEXPRESS;Initial Catalog=GEM;Persist Security Info=True;User ID=fase;Password=fasefase
+
+37d45381-14bb-4aab-b38a-125e5f21335f
+
+
+Data Source=pretolesi-pc\SQLEXPRESS;Initial Catalog=GEM;Integrated Security=True
+
+
+109.168.26.253
+
+Data Source=srvgem.fasenet.it,1433;Initial Catalog=GEM;Persist Security Info=True;User ID=fase;Password=@08E-se4!
+Data Source=srvgem\GEMCLI,1433;Initial Catalog=GEM;Persist Security Info=True;User ID=GEMAdmin;Password=!GEM!4sE

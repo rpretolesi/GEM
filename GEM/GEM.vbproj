@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C8B28B8B-143E-4F39-9178-68C0592D904C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GEM.My.MyApplication</StartupObject>
+    <RootNamespace>GEM</RootNamespace>
+    <AssemblyName>GEM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GEM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GEM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AggiornaManualmenteDati.Designer.vb">
+      <DependentUpon>AggiornaManualmenteDati.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AggiornaManualmenteDati.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseForm_1.Designer.vb">
+      <DependentUpon>BaseForm_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaseForm_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatiGeneraliImpianto.Designer.vb">
+      <DependentUpon>DatiGeneraliImpianto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatiGeneraliImpianto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggerParamConfig.Designer.vb">
+      <DependentUpon>LoggerParamConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoggerParamConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggerInst_X_IndEMailSuAll.Designer.vb">
+      <DependentUpon>LoggerInst_X_IndEMailSuAll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoggerInst_X_IndEMailSuAll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringaDiConnessione.Designer.vb">
+      <DependentUpon>StringaDiConnessione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StringaDiConnessione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common.vb" />
+    <Compile Include="Cliente.Designer.vb">
+      <DependentUpon>Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigurazioneComunicazione.Designer.vb">
+      <DependentUpon>ConfigurazioneComunicazione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigurazioneComunicazione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContatoreDiProduzione.Designer.vb">
+      <DependentUpon>ContatoreDiProduzione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContatoreDiProduzione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContatoreDiProduzioneInst.Designer.vb">
+      <DependentUpon>ContatoreDiProduzioneInst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContatoreDiProduzioneInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log.Designer.vb">
+      <DependentUpon>Log.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Log.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisDatiDataLogger.Designer.vb">
+      <DependentUpon>VisDatiDataLogger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VisDatiDataLogger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggerInstParamConfig.Designer.vb">
+      <DependentUpon>LoggerInstParamConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoggerInstParamConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngressoTipo.Designer.vb">
+      <DependentUpon>IngressoTipo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngressoTipo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InverterFotovInst.Designer.vb">
+      <DependentUpon>InverterFotovInst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InverterFotovInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpiantoDiProduzione.Designer.vb">
+      <DependentUpon>ImpiantoDiProduzione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImpiantoDiProduzione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InverterFotov.Designer.vb">
+      <DependentUpon>InverterFotov.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InverterFotov.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InverterTester.Designer.vb">
+      <DependentUpon>InverterTester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InverterTester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InverterTesterInst.Designer.vb">
+      <DependentUpon>InverterTesterInst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InverterTesterInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InverterTesterInst_X_InverterFotovInst_X_Config.Designer.vb">
+      <DependentUpon>InverterTesterInst_X_InverterFotovInst_X_Config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InverterTesterInst_X_InverterFotovInst_X_Config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logger.Designer.vb">
+      <DependentUpon>Logger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Logger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggerInst.Designer.vb">
+      <DependentUpon>LoggerInst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoggerInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggerInst_X_ImpiantoDiProduzione_X_Config.Designer.vb">
+      <DependentUpon>LoggerInst_X_ImpiantoDiProduzione_X_Config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoggerInst_X_ImpiantoDiProduzione_X_Config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PannelloFotov.Designer.vb">
+      <DependentUpon>PannelloFotov.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PannelloFotov.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PannelloFotovInst.Designer.vb">
+      <DependentUpon>PannelloFotovInst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PannelloFotovInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PannelloFotovString.Designer.vb">
+      <DependentUpon>PannelloFotovString.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PannelloFotovString.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringTester.Designer.vb">
+      <DependentUpon>StringTester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StringTester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringTesterInst.Designer.vb">
+      <DependentUpon>StringTesterInst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StringTesterInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringTesterInst_X_PannelloFotovString_X_Config.Designer.vb">
+      <DependentUpon>StringTesterInst_X_PannelloFotovString_X_Config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StringTesterInst_X_PannelloFotovString_X_Config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TCPIPClient.vb" />
+    <Compile Include="VisDatiInverterTester.Designer.vb">
+      <DependentUpon>VisDatiInverterTester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VisDatiInverterTester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisDatiStringTester.Designer.vb">
+      <DependentUpon>VisDatiStringTester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VisDatiStringTester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisualizzaUtentiCollegatiAlDB.Designer.vb">
+      <DependentUpon>VisualizzaUtentiCollegatiAlDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VisualizzaUtentiCollegatiAlDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AggiornaManualmenteDati.resx">
+      <DependentUpon>AggiornaManualmenteDati.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseForm_1.resx">
+      <DependentUpon>BaseForm_1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente.resx">
+      <DependentUpon>Cliente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatiGeneraliImpianto.resx">
+      <DependentUpon>DatiGeneraliImpianto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggerInst_X_IndEMailSuAll.resx">
+      <DependentUpon>LoggerInst_X_IndEMailSuAll.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggerParamConfig.resx">
+      <DependentUpon>LoggerParamConfig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StringaDiConnessione.resx">
+      <DependentUpon>StringaDiConnessione.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigurazioneComunicazione.resx">
+      <DependentUpon>ConfigurazioneComunicazione.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContatoreDiProduzione.resx">
+      <DependentUpon>ContatoreDiProduzione.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContatoreDiProduzioneInst.resx">
+      <DependentUpon>ContatoreDiProduzioneInst.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log.resx">
+      <DependentUpon>Log.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggerInstParamConfig.resx">
+      <DependentUpon>LoggerInstParamConfig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImpiantoDiProduzione.resx">
+      <DependentUpon>ImpiantoDiProduzione.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngressoTipo.resx">
+      <DependentUpon>IngressoTipo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InverterFotov.resx">
+      <DependentUpon>InverterFotov.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InverterFotovInst.resx">
+      <DependentUpon>InverterFotovInst.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InverterTester.resx">
+      <DependentUpon>InverterTester.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InverterTesterInst.resx">
+      <DependentUpon>InverterTesterInst.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InverterTesterInst_X_InverterFotovInst_X_Config.resx">
+      <DependentUpon>InverterTesterInst_X_InverterFotovInst_X_Config.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logger.resx">
+      <DependentUpon>Logger.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggerInst.resx">
+      <DependentUpon>LoggerInst.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggerInst_X_ImpiantoDiProduzione_X_Config.resx">
+      <DependentUpon>LoggerInst_X_ImpiantoDiProduzione_X_Config.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.it.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.it.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PannelloFotov.resx">
+      <DependentUpon>PannelloFotov.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PannelloFotovInst.resx">
+      <DependentUpon>PannelloFotovInst.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PannelloFotovString.resx">
+      <DependentUpon>PannelloFotovString.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StringTester.resx">
+      <DependentUpon>StringTester.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StringTesterInst.resx">
+      <DependentUpon>StringTesterInst.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StringTesterInst_X_PannelloFotovString_X_Config.resx">
+      <DependentUpon>StringTesterInst_X_PannelloFotovString_X_Config.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisDatiDataLogger.resx">
+      <DependentUpon>VisDatiDataLogger.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisDatiInverterTester.resx">
+      <DependentUpon>VisDatiInverterTester.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisDatiStringTester.resx">
+      <DependentUpon>VisDatiStringTester.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualizzaUtentiCollegatiAlDB.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LogoFase.jpg" />
+    <None Include="My Project\app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
